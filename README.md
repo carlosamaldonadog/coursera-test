@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages by Carlos Maldonado
+## Welcome to GitHub Pages by Carlos A. Maldonado G.
 
 You can use the [editor on GitHub](https://github.com/carlosamaldonadog/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
